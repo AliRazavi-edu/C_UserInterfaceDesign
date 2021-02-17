@@ -3,7 +3,7 @@ User Interface Design Course
 <div dir="rtl">
 
 <a name="TOC"></a>
-# [PNU_3992](#TOC)
+# [PNU_3992](https://github.com/AliRazavi-edu/C_UserInterfaceDesign)
 | [HumanComputerInteraction](https://github.com/AliRazavi-edu/C_HumanComputerInteraction#TOC) 
 | [**UserInterfaceDesgin**](https://github.com/AliRazavi-edu/C_UserInterfaceDesign#TOC)
 | [WebProgramming]
