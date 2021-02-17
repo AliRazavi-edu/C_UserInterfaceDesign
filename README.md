@@ -21,38 +21,47 @@ User Interface Design Course
 
 <a name="Evaluation"></a>
 ## سیاهه ارزشیابی درس
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
-2. **فعالیت های گروهی**
-    1. معرفی یک درس مشابه در دانشگاههای دیگر
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    
+  1. ساخت اکانت گیت هاب
+  2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+  3. ارائه رزومه
+  4. ارائه انگیزه نامه
+  5. ایجاد ریپازیتوری PNU_3991_AR
+  6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+  7. مشارکت در گروهای درسی
+
+</details>
+<details>
+    <summary>فعالیت های گروهی</summary>
+    
+ 1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
-    2. انتخاب موضوع کار گروهی
-    3. تحلیل نیازها
+ 2. انتخاب موضوع کار گروهی
+ 3. تحلیل نیازها
         - هر دو عضو گروه یک نمونه مشابه
         - ارائه نیازها همه گروه با هم
-    4. تجربه کاربری
+  4. تجربه کاربری
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
-    5. طرح دستی
-    6. وایرفریم
-         - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/)
-    7. نمونه سازی
-    8. پیاده سازی
-    9. ارزیابی
+  5. طرح دستی
+  6. وایرفریم
+     - [وایرفریم چیست؟ — به زبان ساده](https://blog.faradars.org/%D9%88%D8%A7%DB%8C%D8%B1%D9%81%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/)
+  7. نمونه سازی
+  8. پیاده سازی
+  9. ارزیابی
         - [The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rsme.html)
             - [Demo Usability Test](https://youtu.be/1UCDUOB_aS8)
-    10. ارائه
+  10. ارائه
 
 [**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
  
  [<kbd>↩</kbd>](#TOC)
-       
+ 
+ </details>
+ 
 ---------------
 
 <a name="CourseRef"></a>
@@ -162,7 +171,6 @@ User Interface Design Course
 - [www.figma.com](https://www.figma.com/)
 
 [<kbd>↩</kbd>](#TOC)
-
 </details>
 
 --------
