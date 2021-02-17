@@ -156,8 +156,6 @@ User Interface Design Course
 <details>
     <summary>آموزش ها کاربردی</summary>
 
-> ## آموزش ها کاربردی
-
 - [  از مقدماتیHtml,Cssآموزش](https://toplearn.com/courses/47/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-html-%D9%88-css-%D8%A7%D8%B2-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C)
 - [  Html و Cssآموزش رایگان ](https://toplearn.com/courses/2165/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-%D9%88-css)
 - [   PSD به HTML و CSSآموزش تبدیل قالب ](https://toplearn.com/courses/4364/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%82%D8%A7%D9%84%D8%A8-psd-%D8%A8%D9%87-html-%D9%88-css)
