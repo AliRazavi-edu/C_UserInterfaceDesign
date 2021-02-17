@@ -119,7 +119,6 @@ User Interface Design Course
 <details>
     <summary>دروس مشابه دیگر دانشگاهها</summary>
 
->## دروس مشابه دیگر دانشگاهها
 - [فرادرس-Foundationآموزش طراحی رابط کاربری وب سایت با فریم ورک](https://faradars.org/courses/fvweb9710-designing-user-interface-of-website-with-foundation-framework)
 - [CS194H- User Experience Design Project - Winter 2020](https://hci.stanford.edu/courses/cs194h/2020/wi/)
     - [2020 - projects](https://hci.stanford.edu/courses/cs194h/2020/wi/projects.html)
@@ -141,8 +140,6 @@ User Interface Design Course
 <a name="RelatedRef"></a>
 <details>
     <summary>دیگر منابع</summary>
-
-> ## دیگر منابع
 
 - [Designing with the Mind in Mind](http://index-of.co.uk/Programming-Library/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20-%20Johnson%20-%20Kaufmann%20(2010).pdf)
 - [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://library.lol/main/107D23516EC9C1957EFD5A14FD62192B)
@@ -178,7 +175,6 @@ User Interface Design Course
 <details>
     <summary>گروه ها</summary>
 
-## گروه ها
 1. G-U01  
 2. G-U02
 3. G-U03 
